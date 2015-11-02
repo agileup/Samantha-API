@@ -1,0 +1,18 @@
+{
+  "name": "samantha",
+  "version": "1.0.0",
+  "description": "smart secretary on android wear - g watch urbane",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.0",
+    "express": "^4.13.3",
+    "lodash": "^3.10.1",
+    "moment": "^2.10.6",
+    "redis": "^2.3.0"
+  }
+}
